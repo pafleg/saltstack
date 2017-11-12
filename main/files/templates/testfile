@@ -1,0 +1,2 @@
+testfile!
+My OS is {{ grains['os'] }}!
