@@ -1,3 +1,4 @@
 main:
   '*':
     - files
+    - users
