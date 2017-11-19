@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/selin/centvagr","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/app/saltstack/":{"guestpath":"/app/saltstack","hostpath":"/home/selin/saltstack","disabled":false,"__vagrantfile":true}}}
