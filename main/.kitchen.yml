@@ -22,3 +22,4 @@ provisioner:
 
 suites:
   - name: default
+  - name: app01
